@@ -1,0 +1,15 @@
+[debug] > Exec(run, None, None)
+[debug] Evaluating tasks: Compile / run
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to C:\Users\profa\Desktop\Scala\Final Contest\target\scala-2.13\classes ...
+[info] Non-compiled module 'compiler-bridge_2.13' for Scala 2.13.6. Compiling...
+[info]   Compilation completed in 12.583s.
+[error] C:\Users\profa\Desktop\Scala\Final Contest\src\main\scala\main.Scala:1:1: expected class or object definition
+[error] scala.collection.mutable.ListBuffer
+[error] ^
+[error] one error found
+[error] (Compile / compileIncremental) Compilation failed
+[error] Total time: 14 s, completed 27.05.2021 0:03:08
+[debug] > Exec(idea-shell, None, None)
+[debug] > Exec(, None, None)
+[debug] > Exec(idea-shell, None, None)
